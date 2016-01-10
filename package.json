@@ -1,0 +1,22 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "A bank account example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulot/BankAccountExample.git"
+  },
+  "keywords": [
+    "bank"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulot/BankAccountExample/issues"
+  },
+  "homepage": "https://github.com/paulot/BankAccountExample#readme"
+}
